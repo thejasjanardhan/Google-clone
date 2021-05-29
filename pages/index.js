@@ -48,7 +48,7 @@ export default function Home() {
           />
 
           {/* avatar */}
-          <Avatar url="https://scontent.fblr1-4.fna.fbcdn.net/v/t1.6435-9/105043345_2763358647226799_6039661813691211378_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=e3f864&_nc_ohc=fam2i8uvwg8AX_tYAb6&_nc_ht=scontent.fblr1-4.fna&oh=fbf76c4d55076cb15f351bcd7532f7f6&oe=60D606EA" />
+          <Avatar url="https://just-imagine.xyz/images/Tejas.jpg" />
         </div>
       </header>
 
