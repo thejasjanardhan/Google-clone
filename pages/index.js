@@ -48,7 +48,7 @@ export default function Home() {
           />
 
           {/* avatar */}
-          <Avatar url="https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=425,format=auto/sites/default/files/styles/768x768/public/d8/images/methode/2021/01/11/d5ed0832-5001-11eb-ad83-255e1243236c_image_hires_113755.jpg?itok=6PsAhoy2&v=1610336282" />
+          <Avatar url="https://scontent.fblr1-6.fna.fbcdn.net/v/t1.6435-9/75419086_2557150267847639_4585200359567261696_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=19026a&_nc_ohc=Pn8iUQTRxgAAX9fyI59&_nc_ht=scontent.fblr1-6.fna&oh=8379744b3a262d75aedfe426febff31c&oe=60D93C9E" />
         </div>
       </header>
 
