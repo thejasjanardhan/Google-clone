@@ -53,7 +53,7 @@ function Header() {
         </form>
         <Avatar
           className="ml-auto"
-          url="https://scontent.fblr1-6.fna.fbcdn.net/v/t1.6435-9/75419086_2557150267847639_4585200359567261696_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=19026a&_nc_ohc=Pn8iUQTRxgAAX9fyI59&_nc_ht=scontent.fblr1-6.fna&oh=8379744b3a262d75aedfe426febff31c&oe=60D93C9E"
+          url="https://scontent.fblr1-4.fna.fbcdn.net/v/t1.6435-9/105043345_2763358647226799_6039661813691211378_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=e3f864&_nc_ohc=fam2i8uvwg8AX_tYAb6&_nc_ht=scontent.fblr1-4.fna&oh=fbf76c4d55076cb15f351bcd7532f7f6&oe=60D606EA"
         />
       </div>
       {/* HeaderOption */}
