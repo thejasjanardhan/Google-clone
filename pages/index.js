@@ -48,7 +48,7 @@ export default function Home() {
           />
 
           {/* avatar */}
-          <Avatar url="https://just-imagine.xyz/images/Tejas.jpg" />
+          <Avatar url="https://thejasjanardhan.online/images/Tejas.jpg" />
         </div>
       </header>
 
