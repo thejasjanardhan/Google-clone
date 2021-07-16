@@ -53,7 +53,7 @@ function Header() {
         </form>
         <Avatar
           className="ml-auto"
-          url="https://just-imagine.xyz/images/Tejas.jpg"
+          url="https://thejasjanardhan.online/images/Tejas.jpg"
         />
       </div>
       {/* HeaderOption */}
